@@ -1,0 +1,38 @@
+table{ 
+    background: plum;
+    width: 38%;
+    border: 1px solid #000;
+    color: #000;
+    
+}
+
+h1{
+    width: 38%;
+}
+th{
+    width: 35%;
+    border: 1px solid #000;
+    background: rgb(252, 163, 178);
+    ;
+}
+td{
+    width: 35%;
+    border: 1px solid #000;
+    background: rgb(252, 163, 178);
+    }
+   
+
+tr:hover td{
+    background-color:plum;
+    color: white}
+
+input {
+    width: 95%;
+    border-radius: 5px;
+    
+}
+.table1{
+    align-content: center;
+
+}
+
